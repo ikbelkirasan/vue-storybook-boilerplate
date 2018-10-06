@@ -1,4 +1,9 @@
-# vue-app-01
+# vue-storybook-boilerplate
+
+## Download
+```
+git clone https://github.com/ikbelkirasan/vue-storybook-boilerplate.git
+```
 
 ## Project setup
 ```
